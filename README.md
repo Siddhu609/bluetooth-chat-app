@@ -1,7 +1,8 @@
 [Ressurected] BlueChat (AKA Fire Chat)
 ======================
 
-Bluetooth instant messaging app for Android, Edited by Maysleazy.
+Bluetooth instant messaging app for Android, 
+
 
 Screenshots here (more to be posted soon): http://imgur.com/a/Esmbt (Not Updated, will update soon)
 
