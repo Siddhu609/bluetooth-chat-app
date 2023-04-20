@@ -4,7 +4,6 @@
 Bluetooth instant messaging app for Android, 
 
 
-Screenshots here (more to be posted soon): http://imgur.com/a/Esmbt (Not Updated, will update soon)
 
 How it works:
   - To send messages and images, we transmit them in formatted byte arrays in the following format:
@@ -22,4 +21,4 @@ Current Bugs:
   - Sometimes quitting and rejoining a chatroom is a bit buggy (Fixed)
   - Sometimes rooms made by lower API cannot be joined by higher API. Workaround - Make sure Higher API Level (Higher Android       Version) Creates the Room.
 
-Download Current Version: https://bit.ly/fctestv2 (Edited by Maysleazy)
+
