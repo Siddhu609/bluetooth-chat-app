@@ -1,4 +1,4 @@
-[Ressurected] BlueChat (AKA Fire Chat)
+
 ======================
 
 Bluetooth instant messaging app for Android, 
